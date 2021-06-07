@@ -1,0 +1,3 @@
+ABSTRACT
+
+Recent events have brought up the question of if these large historical happenings have an impact on the amount of crime. To answer this, a dataset of Seattle crime reports from 2008-2021 was analyzed using descriptive statistics and line graphs. A seasonality index was created as well, but was not included in the analysis as it was deemed unnecessary by the researcher. It was found that crime increased during Trump’s presidency and even more so during the pandemic. A large jump in crime also occurred in the time period right before George Floyd’s death. This provides interesting evidence towards the impact that significant events can have on a city’s crime rate. 
